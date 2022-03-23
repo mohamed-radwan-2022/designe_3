@@ -1296,11 +1296,11 @@ header .container .nav > ul > li > a{
     height: 100%;
     background-color:rgb(255 255 255 / 95%) ;
 }
-@media(max-width:767px){
+/* @media(max-width:767px){
     .state > .main_heding{
         font-size: 25px;
     }
-}
+} */
 .state .container{
     position: relative;
     display: grid;
