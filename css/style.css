@@ -1298,7 +1298,7 @@ header .container .nav > ul > li > a{
 }
 @media(max-width:767px){
     .state > .main_heding{
-        font-size: 15px;
+        font-size: 25px;
     }
 }
 .state .container{
